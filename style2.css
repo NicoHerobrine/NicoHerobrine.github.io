@@ -22,7 +22,7 @@ border-radius: 50px;
 }
 
 /* Rectangle 1 */
-h1{
+header{
 position: absolute;
 width: 1000px;
 height: 167px;
@@ -35,7 +35,7 @@ border-radius: 50px;
 }
 
 /* Nicolas AFFHOLDER */
-h2{
+p{
 position: absolute;
 width: 785px;
 height: 133px;
@@ -90,7 +90,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 /* Mes projets : */
-p{
+h6{
 position: absolute;
 width: 308px;
 height: 89px;
