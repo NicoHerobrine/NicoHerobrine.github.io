@@ -1,0 +1,358 @@
+button{ 
+    font-size: 30px;
+    background-color: #A4B494;
+    border: 5px solid #3B5249;
+    border-radius: 20px;
+    color: #A4B494 ;
+    font-family: "Pattaya", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    -webkit-text-stroke-color: #3B5249;
+    -webkit-text-stroke-width: 1px;
+}
+/* Frame 1 */
+h{
+position: relative;
+width: 1000px;
+height: 1000px;
+
+background: linear-gradient(0deg, #BEC5AD, #BEC5AD);
+border: 10px solid #3B5249;
+border-radius: 50px;
+}
+
+/* Rectangle 1 */
+h1{
+position: absolute;
+width: 1000px;
+height: 167px;
+left: 0px;
+top: 0px;
+
+background: #A4B494;
+border: 10px solid #3B5249;
+border-radius: 50px;
+}
+
+/* Nicolas AFFHOLDER */
+h2{
+position: absolute;
+width: 785px;
+height: 133px;
+left: 108px;
+top: 17px;
+
+font-family: 'Pattaya';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 133px;
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Rectangle 2 */
+h3{
+position: absolute;
+width: 464px;
+height: 545px;
+left: 36px;
+top: 216px;
+
+background: #A4B494;
+border: 5px solid #3B5249;
+border-radius: 52px;
+}
+
+/* à propos de moi : */
+h4{
+position: absolute;
+width: 265px;
+height: 56px;
+left: 146px;
+top: 234px;
+
+font-family: 'Pattaya';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 56px;
+}
+/* identical to box height */
+h5{
+color: #A4B494;
+
+border: 5px solid #3B5249;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Mes projets : */
+h6{
+position: absolute;
+width: 308px;
+height: 89px;
+left: 632px;
+top: 210px;
+
+font-family: 'Pattaya';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 89px;
+/* identical to box height */
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* J’ai 16 ans, je suis en seconde générale */
+
+position: absolute;
+width: 334px;
+height: 112px;
+left: 108px;
+top: 618px;
+
+font-family: 'Pattaya';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 56px;
+text-align: center;
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 349px;
+height: 123px;
+left: 612px;
+top: 328px;
+
+background: #A4B494;
+border: 5px solid #3B5249;
+border-radius: 52px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 349px;
+height: 123px;
+left: 612px;
+top: 476px;
+
+background: #A4B494;
+border: 5px solid #3B5249;
+border-radius: 52px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 349px;
+height: 123px;
+left: 612px;
+top: 624px;
+
+background: #A4B494;
+border: 5px solid #3B5249;
+border-radius: 52px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 925px;
+height: 161px;
+left: 36px;
+top: 797px;
+
+background: #A4B494;
+border: 5px solid #3B5249;
+border-radius: 50px;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 539px;
+top: 368px;
+
+background: #A4B494;
+border: 5px solid ;
+border-radius: 200px;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 539px;
+top: 664px;
+
+background: #A4B494;
+border: 5px solid #3B5249;
+border-radius: 200px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 539px;
+top: 516px;
+
+background: #A4B494;
+border: 5px solid #3B5249;
+border-radius: 200px;
+
+
+/* 1 */
+
+position: absolute;
+width: 28px;
+height: 35px;
+left: 557px;
+top: 366px;
+
+font-family: 'Knewave';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+
+
+/* 2 */
+
+position: absolute;
+width: 28px;
+height: 35px;
+left: 554px;
+top: 514px;
+
+font-family: 'Knewave';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+
+
+/* 3 */
+
+position: absolute;
+width: 28px;
+height: 35px;
+left: 553px;
+top: 662px;
+
+font-family: 'Knewave';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+
+
+/* Respirer */
+
+position: absolute;
+width: 208px;
+height: 89px;
+left: 682px;
+top: 348px;
+
+font-family: 'Pattaya';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 89px;
+/* identical to box height */
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Boire */
+
+position: absolute;
+width: 135px;
+height: 89px;
+left: 719px;
+top: 488px;
+
+font-family: 'Pattaya';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 89px;
+/* identical to box height */
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Manger */
+
+position: absolute;
+width: 198px;
+height: 89px;
+left: 682px;
+top: 644px;
+
+font-family: 'Pattaya';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 89px;
+/* identical to box height */
+
+color: #A4B494;
+
+border: 5px solid #3B5249;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* image_2025-06-17_115931870 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 337px;
+height: 300px;
+left: 100px;
+top: 305px;
+
+background: url("C:\Users\ordi2429767\Documents\GitHub\NicoHerobrine\assets\polypedates-otilophus-assis-feuilles-vertes_488145-320.avif");
+border: 5px solid #3B5249;
+border-radius: 50px;
+}
