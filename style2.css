@@ -143,10 +143,10 @@ top: 328px;
 background: #A4B494;
 border: 5px solid #3B5249;
 border-radius: 52px;
-
+}
 
 /* Rectangle 8 */
-
+h11{
 position: absolute;
 width: 349px;
 height: 123px;
@@ -156,10 +156,10 @@ top: 476px;
 background: #A4B494;
 border: 5px solid #3B5249;
 border-radius: 52px;
-
+}
 
 /* Rectangle 9 */
-
+h12{
 position: absolute;
 width: 349px;
 height: 123px;
@@ -170,9 +170,9 @@ background: #A4B494;
 border: 5px solid #3B5249;
 border-radius: 52px;
 
-
+}
 /* Rectangle 3 */
-
+h13{
 position: absolute;
 width: 925px;
 height: 161px;
@@ -183,9 +183,9 @@ background: #A4B494;
 border: 5px solid #3B5249;
 border-radius: 50px;
 
-
+}
 /* Rectangle 4 */
-
+h14{
 position: absolute;
 width: 50px;
 height: 50px;
@@ -196,9 +196,9 @@ background: #A4B494;
 border: 5px solid ;
 border-radius: 200px;
 
-
+}
 /* Rectangle 5 */
-
+h15{
 position: absolute;
 width: 50px;
 height: 50px;
@@ -209,9 +209,9 @@ background: #A4B494;
 border: 5px solid #3B5249;
 border-radius: 200px;
 
-
+}
 /* Rectangle 6 */
-
+h16{
 position: absolute;
 width: 50px;
 height: 50px;
@@ -222,9 +222,9 @@ background: #A4B494;
 border: 5px solid #3B5249;
 border-radius: 200px;
 
-
+}
 /* 1 */
-
+h17{
 position: absolute;
 width: 28px;
 height: 35px;
@@ -241,9 +241,9 @@ color: #A4B494;
 
 border: 5px solid #3B5249;
 
-
+}
 /* 2 */
-
+h18{
 position: absolute;
 width: 28px;
 height: 35px;
@@ -260,9 +260,9 @@ color: #A4B494;
 
 border: 5px solid #3B5249;
 
-
+}
 /* 3 */
-
+h19{
 position: absolute;
 width: 28px;
 height: 35px;
@@ -279,9 +279,9 @@ color: #A4B494;
 
 border: 5px solid #3B5249;
 
-
+}
 /* Respirer */
-
+h20{
 position: absolute;
 width: 208px;
 height: 89px;
@@ -293,16 +293,17 @@ font-style: normal;
 font-weight: 400;
 font-size: 64px;
 line-height: 89px;
+}
 /* identical to box height */
-
+h21{
 color: #A4B494;
 
 border: 5px solid #3B5249;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
-
+}
 /* Boire */
-
+h22{
 position: absolute;
 width: 135px;
 height: 89px;
@@ -314,16 +315,17 @@ font-style: normal;
 font-weight: 400;
 font-size: 64px;
 line-height: 89px;
+}
 /* identical to box height */
-
+h23{
 color: #A4B494;
 
 border: 5px solid #3B5249;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
-
+}
 /* Manger */
-
+h24{
 position: absolute;
 width: 198px;
 height: 89px;
@@ -335,16 +337,17 @@ font-style: normal;
 font-weight: 400;
 font-size: 64px;
 line-height: 89px;
+}
 /* identical to box height */
-
+h25{
 color: #A4B494;
 
 border: 5px solid #3B5249;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
-
+}
 /* image_2025-06-17_115931870 1 */
-
+h26{
 box-sizing: border-box;
 
 position: absolute;
